@@ -40,7 +40,8 @@ node backup.js "0 2 * * *" "0 6 * * *"
 Isso agendará backups para as 2 da manhã e as 6 da manhã todos os dias.
 Se nenhum horário for fornecido, um aviso será exibido e nenhum backup será agendado.
 
-###　日本語
+##　日本語
+===
 
 ## プロジェクト：Node.jsを使用したデータベースバックアップ
 
