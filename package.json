@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "backupcalendardb_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.2"
+  }
+}
